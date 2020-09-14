@@ -1,0 +1,256 @@
+[
+  {
+    "id": "1",
+    "name": "Hot Deal - Săn Ưu đãi",
+    "item": [
+      {
+        "id": "1",
+        "image": "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png",
+        "name": "Laptop ASUS VivoBook 15 A512FA-EJ1281T (15.6\" FHD/i5 Core)",
+        "price": 17290000,
+        "discountRate": 1100000,
+        "discountedPrice": 16190000,
+        "gifts": [
+          "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png",
+          "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png",
+          "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png"
+        ]
+      },
+      {
+        "id": "2",
+        "image": "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png",
+        "name": "Laptop ASUS VivoBook 15 A512FA-EJ1281T (15.6\" FHD/i5 Core)",
+        "price": 17290000,
+        "discountRate": 1100000,
+        "discountedPrice": 16190000,
+        "gifts": []
+      },
+      {
+        "id": "3",
+        "image": "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png",
+        "name": "Laptop ASUS VivoBook 15 A512FA-EJ1281T (15.6\" FHD/i5 Core)",
+        "price": 15290000,
+        "discountRate": 1100000,
+        "discountedPrice": 16190000,
+        "gifts": [
+          "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png",
+          "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png",
+          "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png"
+        ]
+      },
+      {
+        "id": "4",
+        "image": "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png",
+        "name": "Laptop ASUS VivoBook 15 A512FA-EJ1281T (15.6\" FHD/i5 Core)",
+        "price": 17290000,
+        "discountRate": 1100000,
+        "discountedPrice": 16190000,
+        "gifts": [
+          "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png",
+          "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png",
+          "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png"
+        ]
+      },
+      {
+        "id": "5",
+        "image": "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png",
+        "name": "Laptop ASUS VivoBook 15 A512FA-EJ1281T (15.6\" FHD/i5 Core)",
+        "price": 16290000,
+        "discountRate": 1100000,
+        "discountedPrice": 16190000,
+        "gifts": [
+          "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png",
+          "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png",
+          "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png"
+        ]
+      },
+      {
+        "id": "6",
+        "image": "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png",
+        "name": "Laptop ASUS VivoBook 15 A512FA-EJ1281T (15.6\" FHD/i5 Core)",
+        "price": 17290000,
+        "discountRate": 1100000,
+        "discountedPrice": 16190000,
+        "gifts": [
+          "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png",
+          "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png",
+          "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Phong Vũ's Choice",
+    "item": [
+      {
+        "id": "1",
+        "image": "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png",
+        "name": "Laptop ASUS VivoBook 15 A512FA-EJ1281T (15.6\" FHD/i5 Core)",
+        "price": 17290000,
+        "discountRate": 1100000,
+        "discountedPrice": 16190000,
+        "gifts": [
+          "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png",
+          "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png",
+          "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png"
+        ]
+      },
+      {
+        "id": "2",
+        "image": "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png",
+        "name": "Laptop ASUS VivoBook 15 A512FA-EJ1281T (15.6\" FHD/i5 Core)",
+        "price": 17290000,
+        "discountRate": 1100000,
+        "discountedPrice": 16190000,
+        "gifts": [
+          "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png",
+          "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png",
+          "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png"
+        ]
+      },
+      {
+        "id": "3",
+        "image": "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png",
+        "name": "Laptop ASUS VivoBook 15 A512FA-EJ1281T (15.6\" FHD/i5 Core)",
+        "price": 17290000,
+        "discountRate": 1100000,
+        "discountedPrice": 16190000,
+        "gifts": [
+          "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png",
+          "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png",
+          "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png"
+        ]
+      },
+      {
+        "id": "4",
+        "image": "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png",
+        "name": "Laptop ASUS VivoBook 15 A512FA-EJ1281T (15.6\" FHD/i5 Core)",
+        "price": 17290000,
+        "discountRate": 1100000,
+        "discountedPrice": 16190000,
+        "gifts": [
+          "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png",
+          "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png",
+          "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Gợi ý cho dân văn phòng",
+    "item": [
+      {
+        "id": "1",
+        "image": "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png",
+        "name": "Laptop ASUS VivoBook 15 A512FA-EJ1281T (15.6\" FHD/i5 Core)",
+        "price": 17290000,
+        "discountRate": 1100000,
+        "discountedPrice": 16190000,
+        "gifts": [
+          "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png",
+          "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png",
+          "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png"
+        ]
+      },
+      {
+        "id": "2",
+        "image": "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png",
+        "name": "Laptop ASUS VivoBook 15 A512FA-EJ1281T (15.6\" FHD/i5 Core)",
+        "price": 17290000,
+        "discountRate": 1100000,
+        "discountedPrice": 16190000,
+        "gifts": [
+          "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png",
+          "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png",
+          "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png"
+        ]
+      },
+      {
+        "id": "3",
+        "image": "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png",
+        "name": "Laptop ASUS VivoBook 15 A512FA-EJ1281T (15.6\" FHD/i5 Core)",
+        "price": 17290000,
+        "discountRate": 1100000,
+        "discountedPrice": 16190000,
+        "gifts": [
+          "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png",
+          "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png",
+          "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png"
+        ]
+      },
+      {
+        "id": "4",
+        "image": "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png",
+        "name": "Laptop ASUS VivoBook 15 A512FA-EJ1281T (15.6\" FHD/i5 Core)",
+        "price": 17290000,
+        "discountRate": 1100000,
+        "discountedPrice": 16190000,
+        "gifts": [
+          "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png",
+          "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png",
+          "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Dành cho dân công nghệ",
+    "item": [
+      {
+        "id": "1",
+        "image": "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png",
+        "name": "Laptop ASUS VivoBook 15 A512FA-EJ1281T (15.6\" FHD/i5 Core)",
+        "price": 17290000,
+        "discountRate": 1100000,
+        "discountedPrice": 16190000,
+        "gifts": [
+          "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png",
+          "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png",
+          "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png"
+        ]
+      },
+      {
+        "id": "2",
+        "image": "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png",
+        "name": "Laptop ASUS VivoBook 15 A512FA-EJ1281T (15.6\" FHD/i5 Core)",
+        "price": 17290000,
+        "discountRate": 1100000,
+        "discountedPrice": 16190000,
+        "gifts": [
+          "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png",
+          "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png",
+          "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png"
+        ]
+      },
+      {
+        "id": "3",
+        "image": "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png",
+        "name": "Laptop ASUS VivoBook 15 A512FA-EJ1281T (15.6\" FHD/i5 Core)",
+        "price": 17290000,
+        "discountRate": 1100000,
+        "discountedPrice": 16190000,
+        "gifts": [
+          "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png",
+          "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png",
+          "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png"
+        ]
+      },
+      {
+        "id": "4",
+        "image": "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png",
+        "name": "Laptop ASUS VivoBook 15 A512FA-EJ1281T (15.6\" FHD/i5 Core)",
+        "price": 17290000,
+        "discountRate": 1100000,
+        "discountedPrice": 16190000,
+        "gifts": [
+          "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png",
+          "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png",
+          "https://res.cloudinary.com/vdn1999bxvp/image/upload/v1600095144/intro-home_ua2g6v.png"
+        ]
+      }
+    ]
+  }
+]
